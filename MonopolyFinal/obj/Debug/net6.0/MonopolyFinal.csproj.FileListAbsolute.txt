@@ -1,0 +1,15 @@
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\bin\Debug\net6.0\MonopolyFinal.exe
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\bin\Debug\net6.0\MonopolyFinal.deps.json
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\bin\Debug\net6.0\MonopolyFinal.runtimeconfig.json
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\bin\Debug\net6.0\MonopolyFinal.dll
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\bin\Debug\net6.0\ref\MonopolyFinal.dll
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\bin\Debug\net6.0\MonopolyFinal.pdb
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.csproj.AssemblyReference.cache
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.AssemblyInfoInputs.cache
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.AssemblyInfo.cs
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.dll
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\ref\MonopolyFinal.dll
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.pdb
+C:\Users\MSI GF\Desktop\Swinburne\oop\MonopolyFinal\MonopolyFinal\obj\Debug\net6.0\MonopolyFinal.genruntimeconfig.cache

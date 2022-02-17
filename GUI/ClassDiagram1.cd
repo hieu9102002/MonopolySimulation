@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MonopolyFinal.Actions.Action" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\Action.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.BuildHouseAction" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\BuildHouseAction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MonopolyFinal.Actions.BuyTileAction" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\BuyTileAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.DoNothingAction" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\DoNothingAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.EndTurnAction" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\EndTurnAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.GainOrLoseMoneyAction" Collapsed="true">
+    <Position X="22.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\GainOrLoseMoneyAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.GoDoublesAction" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\GoDoublesAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.GoToJailAction" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\GoToJailAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.PayOtherPlayerAction" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\PayOtherPlayerAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.TradeAction" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAgAAAAAAQAAAAAAgAAAAAAAAAAAAAAAYAAAAA=</HashCode>
+      <FileName>Actions\TradeAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Actions.UnmortgageTileAction" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actions\UnmortgageTileAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Board" Collapsed="true">
+    <Position X="29.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABAAACAAAIAACAAAAAQCYwBgFAIAMACQKAEBA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Game" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAFAAABAAAAAAAEAAlAAAAAAAAgAQAAAABAAQ=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.Form1" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAABAAiAAABAAAACAAAACAEA4AAAAAHAICAAAAAQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.Form2" Collapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAACAAABAAAACAAAACAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.Form3" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACQACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.Program" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Players.AIPlayer" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAJAAEAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAggAI=</HashCode>
+      <FileName>Players\AIPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Players.Player" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIASEAAkAAEQAAAJAAA0ASAGIAoAAQAAAwAEgAAg=</HashCode>
+      <FileName>Players\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.Properties.Resources" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.Properties.Settings" Collapsed="true">
+    <Position X="27.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Tiles.ComplexBuyableTiles" Collapsed="true">
+    <Position X="5.25" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>DAAAAEAAAAAAAAAAAAAAAAgEIAAIBAAAAQAEAAgAAAA=</HashCode>
+      <FileName>Tiles\ComplexBuyableTiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Tiles.ChanceOrChest" Collapsed="true">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles\ChanceOrChest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Tiles.GoToJail" Collapsed="true">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles\GoToJail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Tiles.SimpleBuyableTiles" Collapsed="true">
+    <Position X="5.25" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>RAAAhECAAABAAgQACAAAIAAEIAAAAAABAAAGAAgAIAA=</HashCode>
+      <FileName>Tiles\SimpleBuyableTiles.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MonopolyFinal.Tiles.Tax" Collapsed="true">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles\Tax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Tiles.Tile">
+    <Position X="5.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Tiles\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonopolyFinal.Tiles.UselessTile" Collapsed="true">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles\UselessTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MonopolyFinal.Enums.Group">
+    <Position X="23.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAAIhAgAAAABAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>Enums\Group.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MonopolyFinal.Enums.TileName">
+    <Position X="27.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4AIEAkBwAAAgsAQcAAAAgAMCEAAAQoAAAAAABBmIgAA=</HashCode>
+      <FileName>Enums\TileName.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
